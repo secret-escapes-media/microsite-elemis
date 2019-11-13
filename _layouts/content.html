@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="vpad--xxl bg--light">
+  <div class="container">
+    <div class="width width--xl text--xxl text--center">
+      <p>{{page.intro}}</p>
+      {% if page.extra-intro-content %}{{page.extra-intro-content | liquify}}{% endif %}
+    </div>
+  </div>
+</div>
+
+{{content}}

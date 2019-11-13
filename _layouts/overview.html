@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="vpad--xxl bg--light">
+  <div class="container">
+    <div class="width width--xl text--xxl text--center">
+      <p>{{site.description}}</p>
+      <div class="space--sm"></div>
+      <a href="{{site.baseurl}}/offers" class="btn btn--outline btn--outline-blue">See Spa Breaks</a>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="width width--xxl vpad--xxl">
+    {% assign content-pages = site.html_pages | where: 'content-page', 'true' | sort: 'nav-order' %}
+    {% for page in content-pages %}
+      <div class="bg-img bg-img--21-9 border" style="background-image: url('{{site.img}}/content/{{page.id}}/bg.jpg');">
+        <a href="{{site.baseurl}}{{page.url}}" class="bg-img__link"></a>
+        <div class="bg-img__bg-overlay"></div>
+        <div class="bg-img__content bg-img__content--left">
+          <h3 class="title title--xxl">{{page.title}}</h3>
+        </div>
+      </div>
+      {% unless forloop.last %}
+        <div class="space--xl"></div>
+      {% endunless %}
+    {% endfor %}
+  </div>
+</div>

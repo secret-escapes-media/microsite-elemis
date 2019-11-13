@@ -6,30 +6,29 @@ banner:
       <div class="width width--xxl text--center">
         <h1 class="title title--xxxl">{{page.long-title}}</h1>
         <div class="space--sm"></div>
-        <a href="#entry-form" class="btn btn--lg btn--orange">{{page.enter-cta}}</a>
+        <a href="#entry-form" class="btn btn--lg btn--blue">{{page.enter-cta}}</a>
       </div>
     </div>
 ---
 
 <div class="bg--light">
-  <div class="container">
-    <div class="space--xxl"></div>
+  <div class="container vpad--xxl">
     <div class="width width--xl text--center">
       <p class="text--xxl">{{page.intro}}</p>
     </div>
-    <div class="space--xl"></div>
-    <div class="row row--constant-4-4-4 row--gutters-sm">
-      <div class="col">
-        <div class="bg-img bg-img--1-1 bg-img--lg-4-3 bg-img--xxl-3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/bg.jpg');"></div>
-      </div>
-      <div class="col">
-        <div class="bg-img bg-img--1-1 bg-img--lg-4-3 bg-img--xxl-3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/bg.jpg');"></div>
-      </div>
-      <div class="col">
-        <div class="bg-img bg-img--1-1 bg-img--lg-4-3 bg-img--xxl-3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/bg.jpg');"></div>
-      </div>
+    <div class="space--xxl">
+      {% for item in page.features %}
+        <div class="bob{% cycle '', ' bob--swap' %}">
+          <div class="bob__img">
+            <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/{{item.id}}.jpg');"></div>
+          </div>
+          <div class="bob__text">
+            <h2 class="title title--sm title--color">{{item.title}}</h2>
+            <p class="text--xl">{{item.description}}</p>
+          </div>
+        </div>
+      {% endfor %}
     </div>
-    <div class="space--xxl"></div>
   </div>
 </div>
 
@@ -68,3 +67,5 @@ banner:
     </div>
   </div>
 </div>
+
+{% include page/promo-products.html %}

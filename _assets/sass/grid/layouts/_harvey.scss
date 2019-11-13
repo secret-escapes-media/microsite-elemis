@@ -25,10 +25,10 @@
     padding-top: $s4;
     padding-bottom: $s8;
     @include bp($bp) {
-      padding-top: $s12;
+      padding-top: $s15;
       padding-left: $s4;
       padding-right: $s4;
-      padding-bottom: $s12;
+      padding-bottom: $s15;
     }
   }
   &__img {

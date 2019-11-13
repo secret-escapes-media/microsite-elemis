@@ -1,0 +1,16 @@
+{% assign products-page = site.html_pages | where: 'id', 'skincare' | first %}
+<div class="vpad--xxxxl bg--img text--white bg--dark" style="background-image: url('{{site.img}}/content/{{products-page.id}}/banner.jpg');">
+  <div class="container container--100">
+    <div class="row row--xxl-6-6 row--no-gutters">
+      <div class="col">
+        <div class="width width--lg">
+          <h2 class="title title--lg">{{products-page.banner-title}}</h2>
+          <p class="text--xxl text--normal space--xxs">{{products-page.intro}}</p>
+          <div class="space--md"></div>
+          <a id="track-btn-footer-product" href="{{site.baseurl}}{{products-page.url}}" class="btn btn--lg btn--white">See ELEMIS skincare</a>
+        </div>
+      </div>
+      <div class="col"></div>
+    </div>
+  </div>
+</div>

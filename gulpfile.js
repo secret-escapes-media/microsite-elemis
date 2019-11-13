@@ -26,7 +26,7 @@ function browserSyncServe() {
     server: {
       baseDir: '_site/',
       routes: {
-        '/template': '_site/'
+        '/elemis': '_site/'
       }
     }
   });

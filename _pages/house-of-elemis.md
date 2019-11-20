@@ -2,16 +2,30 @@
 layout: content
 id: the-house-of-elemis
 permalink: /the-house-of-elemis/
-title: The House of ELEMIS
+title: The House of&nbsp;ELEMIS
 nav: true
 nav-order: 4
 content-page: true
-intro: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
-extra-intro-content: >
-  <p>Voucher content - Get a free product quoting us when booking</p>
-  <p>BOOKINGCODETOQUOTE</p>
-  <div class="space--sm"></div>
-  <a id="track-{{page.id}}-intro-btn" href="https://www.elemis.com/house-of-elemis-london" class="btn btn--outline btn--outline-blue">MAKE A BOOKING ENQUIRY</a>
+intro: Take your beauty rituals one step further by dropping in at the House of ELEMIS. Located in the heart of exclusive Mayfair, indulge in sumptuous treatments at the hands of ELEMIS Elite therapists, who will personalise your experience to give you only the best, most transformative results. Pick your perfect treatment below…
+intro-content: >
+  <div class="vpad--xl">
+    <div class="width width--lg text--center">
+      <p class="text--xxl">{{page.intro}}</p>
+    </div>
+    <div class="space--lg"></div>
+    <div class="width width--xl boxpad--xl bg--dark bg--img text--blue" style="background-image: url('{{site.img}}/content/{{page.id}}/offer.jpg');">
+      <div class="row row--start">
+        <div class="col col--7">
+          <div class="vpad--sm">
+            <h3 class="title title--color title--xs">Exclusive House of ELEMIS offer for Secret Escapes members</h3>
+            <p class="text--normal">Book any 60-minute treatment at The House of ELEMIS and receive a luxury six-piece gift worth £55! Keep skin hydrated through the winter months with your luxury six-piece gift containing award-winning Pro-Collagen skincare </p>
+            <div class="vpad--xxs"></div>
+            <a id="track-{{page.id}}-promo-btn" href="https://www.elemis.com/house-of-elemis-london" class="btn btn--sm btn--blue">MAKE A BOOKING ENQUIRY</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
 
 treatments:
@@ -43,44 +57,16 @@ treatments:
     time: 1 hour
     price: 115
     link: https://www.elemis.com/house-of-elemis-treatment-menu-body#massage
-
-
-features:
-
-  - id: the-penthouse
-    title: THE PENTHOUSE
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
-
-  - id: therapists
-    title: ELEMIS Elite therapists
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
-
 ---
 
 <div class="vpad--xxl">
-  <div class="container">
-    {% for item in page.features %}
-      <div class="bob{% cycle '', ' bob--swap' %}">
-        <div class="bob__img">
-          <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/{{item.id}}.jpg');"></div>
-        </div>
-        <div class="bob__text">
-          <h2 class="title title--md title--color">{{item.title}}</h2>
-          <p class="text--xl">{{item.description}}</p>
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-</div>
-
-<div class="vpad--xxl bg--light">
-  <div class="container container--xxl">
+  <div class="width width--xxl">
     <h2 class="title title--lg title--color text--center width width--lg">Bestselling Facials & Body&nbsp;Treatments</h2>
     <div class="space--xl"></div>
     <div class="row row--6-6 row--gutters-lg">
       {% for treatment in page.treatments %}
         <div class="col">
-          <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/img.jpg');">
+          <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/content/{{page.id}}/{{treatment.id}}.jpg');">
             <a id="track-{{page.id}}-{{treatment.id}}-img" class="bg-img__link" href="{{treatment.link}}"></a>
           </div>
           <div class="boxpad--lg bg--white">

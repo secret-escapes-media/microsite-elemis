@@ -1,5 +1,18 @@
 // general styles for the project that wouldn't be a reuseable component
 
-.logo-banner { max-width: 600px; }
+.logo-banner { max-width: 680px; }
 
 .border { border-bottom: 5px solid $el-blue; }
+
+.promo-code {
+  padding: $s0 $s2;
+  letter-spacing: .1rem;
+  font-weight: 700;
+  font-size: $s-1;
+  word-break: break-all;
+  border: 2px solid #d1dbe6;
+}
+
+.dont-break-hyphen {
+  white-space: nowrap;
+}

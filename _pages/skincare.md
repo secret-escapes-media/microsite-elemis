@@ -7,39 +7,48 @@ nav: true
 nav-order: 3
 content-page: true
 banner-title: Experience skincare crafted by the chemistry of nature
-intro: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
-extra-intro-content: >
-  <p>Voucher content - save 20% off all Elemis products</p>
-  <p>EXACTVOUCHERCODE</p>
-  <div class="space--sm"></div>
-  <a id="track-{{page.id}}-intro-btn" href="{{feature.link}}" class="btn btn--outline btn--outline-blue">Shop Skincare Now</a>
+intro: Find your next skincare ritual here. ELEMIS sources only the finest ingredients from above and below the earth’s surface, coupling them with pioneering, science-led and transformative formulas. These innovative products offer powerful results that truly set ELEMIS apart – making them the no.1 luxury skincare company in Britain.
+intro-content: >
+  <div class="vpad--xl width width--lg text--center">
+    <p class="text--xxl">{{page.intro}}</p>
+    <p class="text--xxl">Don’t take our word for it; try the products for yourself with an exclusive discount for Secret Escapes members! Simply enter the below code at checkout:</p>
+    <div class="vpad--xs">
+      <div class="promo-code">EXACTVOUCHERCODE</div>
+    </div>
+    <a id="track-{{page.id}}-intro-btn" href="{{feature.link}}" class="btn btn--blue">Shop Skincare Now</a>
+  </div>
 
 
 features:
 
   - id: ultra-smart-pro-collagen
-    title: ULTRA SMART PRO-COLLAGEN
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
+    title: ULTRA SMART <span class="dont-break-hyphen">PRO-COLLAGEN</span>
+    sub-title: Intelligent Skincare
+    description: Discover a range of uniquely engineered treatments that give you the resilient appearance of younger skin. This is the age of intelligent skincare.
     link: https://www.elemis.com/skincare/pro-collagen-anti-wrinkle/ultra-smart-pro-collagen
 
   - id: pro-collagen
     title: PRO-COLLAGEN
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
+    sub-title: Anti-Ageing Solutions
+    description: Rich marine and plant actives combine in the world-renowned Pro-Collagen formulations. Reduce the appearance of fine lines and wrinkles and delicately smooth your skin.
     link: https://www.elemis.com/skincare/pro-collagen-anti-wrinkle
 
   - id: dynamic-resurfacing
     title: DYNAMIC RESURFACING
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
+    sub-title: Daily Resurfacing & Renewal
+    description: Boost your complexion and make your skin positively vibrant with daily resurfacing and renewal formulas. Patented Tri-Enzyme technology restores even skin tone and gives you fresher, brighter skin.
     link: https://www.elemis.com/skincare/resurfacing-tri-enzyme
 
   - id: peptide-24-7
     title: PEPTIDE 24/7
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
+    sub-title: Skin Wellness
+    description: The skin-renewing Peptide 24/7 range targets tired-looking skin around the clock. Achieve a well-rested glow everyday all-day with this luxurious formula.
     link: https://www.elemis.com/skincare/peptide4
 
   - id: superfood
     title: SUPERFOOD
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
+    sub-title: Skin Health & Nutrition
+    description: Nutrient-dense superfoods combine with a natural, sugar-derived prebiotic to create a skincare system that replenishes skin. With vital hydrating nourishment, get a healthy, outdoor-fresh glow.
     link: https://www.elemis.com/skincare/superfood
 
 ---
@@ -50,7 +59,8 @@ features:
       <a id="track-{{page.id}}-{{feautre.id}}-img" class="harvey__link" href="{{feature.link}}"></a>
     </div>
     <div class="harvey__text">
-      <h3 class="title title--md title--color">{{feature.title}}</h3>
+      <h3 class="title title--lg title--color">{{feature.title}}</h3>
+      <h4 class="title title--xxs">{{feature.sub-title}}</h4>
       <p class="text--xxl">{{feature.description}}</p>
       <div class="space--sm"></div>
       <a id="track-{{page.id}}-{{feautre.id}}-btn" href="{{feature.link}}" class="btn btn--blue">Shop The Range</a>

@@ -6,23 +6,23 @@ nav: true
 nav-order: 5
 
 title: Compet&shy;ition
-long-title: Win a luxury spa experience & £1000 shopping spree
-intro: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
+long-title: Win an opulent spa escape plus £1000 ELEMIS shopping spree
+intro: In the idyllic and historic spa town of Harrogate sits Rudding Park, a gorgeous manor getaway where luxury and relaxation await. From long spa dips to private cinema screenings, luxury skincare spends and exquisite dining, this competition is set to replenish even the most wearied traveller.
 enter-cta: Enter Now
 
 features:
 
   - id: rudding-park
-    title: Stay at the exquisite Rudding Park Hotel Spa
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
+    title: Stay at the Exquisite Rudding Park Hotel
+    description: Enjoy a two-night B&B stay in the gorgeous Follifoot Wing Room at Rudding Park, where contemporary design meets classic manor charms. Enjoy dinner one night at your choice of restaurants – the award-winning Horto, or laidback Clocktower, and spend the other night kicking back in the hotel’s cinema for a private screening with champagne and popcorn.
 
   - id: experiences
-    title: Get fully pampered with the luxury treatment
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
+    title: Get Fully Pampered in the Hotel Spa
+    description: For the duration of your stay, you’ll have unlimited access to Rudding Park’s exclusive spa. Reset with hydrotherapy and thermal experiences in the rooftop spa and garden, before indulging in a bespoke treatment for you and your plus one.
 
   - id: voucher
-    title: Go on a £1000 ELEMIS shopping spree
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
+    title: Go on a £1000 ELEMIS Shopping Spree
+    description: Your wellness escape doesn’t end here; refresh your beauty regime with £1000 to spend at ELEMIS. Fill your shopping basket with products by Britain’s no.1 luxury skincare company and revitalise your skincare rituals.
 
 
 competition-form:

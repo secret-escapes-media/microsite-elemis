@@ -85,8 +85,8 @@
   text-transform: uppercase;
   font-size: $s5;
   line-height: 1;
-  padding-top: $s5;
-  padding-bottom: $s5;
+  padding-top: $s1;
+  padding-bottom: $s4;
   @include bp($md){ font-size: $s7; }
   @include bp($xl){ font-size: $s11; }
 }

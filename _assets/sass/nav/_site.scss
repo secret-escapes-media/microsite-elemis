@@ -18,7 +18,7 @@ $nav-color:          $el-blue-dark;
 
 .site-nav {
   position: relative;
-  background-color: rgba($nav-color,.8);
+  background-color: rgba($nav-color,.6);
   text-align: center;
 
   // NEEDS EXPLAINING LIKE THE CORE NAV OFFSET
@@ -95,8 +95,8 @@ $nav-color:          $el-blue-dark;
     color: $white;
     transition: background-color $transition-time ease;
     white-space: nowrap;
-    &.is-current      { background-color: rgba($nav-color,.66); }
-    .no-touch &:hover { background-color: rgba($nav-color,1); }
+    .no-touch &:hover { background-color: rgba($nav-color,.8); }
+    &.is-current      { background-color: rgba($nav-color,.6); }
     @include bp($nav-width-bp){
       padding-left: $s0;
       padding-right: $s0;

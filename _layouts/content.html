@@ -2,12 +2,15 @@
 layout: default
 ---
 
-<div class="vpad--xxl bg--light">
+<div class="bg--light">
   <div class="container">
-    <div class="width width--xl text--xxl text--center">
-      <p>{{page.intro}}</p>
-      {% if page.extra-intro-content %}{{page.extra-intro-content | liquify}}{% endif %}
-    </div>
+    {% if page.intro-content %}
+      {{page.intro-content | liquify}}
+    {% else %}
+      <div class="vpad--xxl width width--xl text--center">
+        <p class="text--xxxl">{{page.intro}}</p>
+      </div>
+    {% endif %}
   </div>
 </div>
 

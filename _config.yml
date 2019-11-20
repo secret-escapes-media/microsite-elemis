@@ -1,11 +1,11 @@
 # Site settings
-title: The ELEMIS collection
+title: The ELEMIS Spa Collection
 client:
   name: ELEMIS
   link: https://www.elemis.com/
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  You deserve a pampering. Let the restorative treatments at our gorgeous spa escapes refresh and revitalise mind, body and soul, a perfect treat, just for you, over the winter season. We’ve hand-picked the finest spa getaways in Britain, set for days of endless relaxation in sumptuous surroundings. With exclusive offers from ELEMIS, upgrade your spa break and treat yourself to products and treatments from Britain’s no.1 luxury skincare company. Discover the House of ELEMIS for luxurious treatments in the heart of London’s exclusive Mayfair plus an extra gift for Secret Escapes members, and browse the exceptional skincare range – because we all deserve a pampering once in a while...
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site

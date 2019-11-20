@@ -9,5 +9,5 @@ banner:
   title-sup: The
   title: >
     <img class="logo-banner" src="{{site.img}}/logo/partner.svg" alt="Elemis">
-  title-sub: Collection
+  title-sub: Spa Collection
 ---

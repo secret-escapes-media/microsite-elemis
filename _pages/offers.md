@@ -6,7 +6,7 @@ title: Spa Breaks
 nav: true
 nav-order: 2
 content-page: true
-intro: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque.
+intro: Discover a handpicked selection of irresistible spa escapes. Choose your five-star pampering and get set for a weekend of blissful relaxation. From beautiful country manors to refined city getaways, let our unique offers tempt your spa desires...
 ---
 
 {% include offer/all-offers.html %}

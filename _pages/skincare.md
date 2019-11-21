@@ -6,12 +6,12 @@ title: Skincare
 nav: true
 nav-order: 3
 content-page: true
-banner-title: Experience skincare crafted by the chemistry of nature
+banner-title: Refresh Your Skincare Ritual With an Exclusive 20% Off Luxurious Elemis Products
 intro: Find your next skincare ritual here. ELEMIS sources only the finest ingredients from above and below the earth’s surface, coupling them with pioneering, science-led and transformative formulas. These innovative products offer powerful results that truly set ELEMIS apart – making them the no.1 luxury skincare company in Britain.
 intro-content: >
   <div class="vpad--xl width width--lg text--center">
     <p class="text--xxl">{{page.intro}}</p>
-    <p class="text--xxl">Don’t take our word for it; try the products for yourself with an exclusive discount for Secret Escapes members! Simply enter the below code at checkout:</p>
+    <p class="text--xxl">Don’t take our word for it; try the products for yourself with an <strong>exclusive 20% discount</strong> for Secret Escapes members! Simply enter the below code at checkout:</p>
     <div class="vpad--xs">
       <div class="promo-code">EXACTVOUCHERCODE</div>
     </div>

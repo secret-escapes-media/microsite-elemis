@@ -7,7 +7,7 @@ nav-order: 5
 
 title: Compet&shy;ition
 long-title: Win an opulent spa escape plus £1000 ELEMIS shopping spree
-intro: In the idyllic and historic spa town of Harrogate sits Rudding Park, a gorgeous manor getaway where luxury and relaxation await. From long spa dips to private cinema screenings, luxury skincare spends and exquisite dining, this competition is set to replenish even the most wearied traveller.
+intro: In the idyllic and historic spa town of Harrogate sits Rudding Park, a gorgeous manor getaway where luxury and relaxation await. From long spa dips to private cinema screenings, luxury skincare shopping spree and exquisite dining, this competition is set to replenish even the most wearied traveller.
 enter-cta: Enter Now
 
 features:

@@ -19,6 +19,7 @@ intro-content: >
           <div class="vpad--sm">
             <h3 class="title title--color title--xs">Exclusive House of ELEMIS offer for Secret Escapes members</h3>
             <p class="text--normal">Book any 60-minute treatment at The House of ELEMIS and receive a luxury six-piece gift worth £55! Keep skin hydrated through the winter months with your luxury six-piece gift containing award-winning Pro-Collagen skincare </p>
+            <p class="text--normal">Make sure you quote “<strong>Secret Escapes</strong>” when you book to claim your gift!</p>
             <div class="vpad--xxs"></div>
             <a id="track-{{page.id}}-promo-btn" href="https://www.elemis.com/house-of-elemis-london" class="btn btn--sm btn--blue">MAKE A BOOKING ENQUIRY</a>
           </div>

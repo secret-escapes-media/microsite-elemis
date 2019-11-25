@@ -37,13 +37,17 @@ ol {
   }
 }
 
+.continuing-list {
+  &--skip { counter-reset: mycounter; }
+}
+
 .ol {
   &--nested {
     padding-left: $s2;
     padding-bottom: $s2;
   }
   &--letters {
-    li:before { content: counter(mycounter, lower-alpha) "."; }
+    & > li:before { content: counter(mycounter, lower-alpha) ")"; }
   }
 }
 
@@ -62,6 +66,6 @@ ul {
 hr {
   border: 0;
   height: 1px;
-  background-color: $grey-lightest;
+  background-color: $grey-lighter;
   margin: $s1 0;
 }

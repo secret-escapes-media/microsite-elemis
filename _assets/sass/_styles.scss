@@ -5,10 +5,10 @@
 .border { border-bottom: 5px solid $el-blue; }
 
 .promo-code {
-  padding: $s0 $s2;
+  padding: $s-1 $s2;
   letter-spacing: .1rem;
   font-weight: 700;
-  font-size: $s-1;
+  font-size: $s0;
   word-break: break-all;
   border: 2px solid #d1dbe6;
 }

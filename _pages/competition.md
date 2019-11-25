@@ -6,7 +6,7 @@ nav: true
 nav-order: 5
 
 title: Compet&shy;ition
-long-title: Win an opulent spa escape plus £1000 ELEMIS shopping spree
+long-title: Win an opulent spa escape plus £1000 worth of ELEMIS products
 intro: In the idyllic and historic spa town of Harrogate sits Rudding Park, a gorgeous manor getaway where luxury and relaxation await. From long spa dips to private cinema screenings, luxury skincare shopping spree and exquisite dining, this competition is set to replenish even the most wearied traveller.
 enter-cta: Enter Now
 
@@ -21,14 +21,14 @@ features:
     description: For the duration of your stay, you’ll have unlimited access to Rudding Park’s exclusive spa. Reset with hydrotherapy and thermal experiences in the rooftop spa and garden, before indulging in a bespoke treatment for you and your plus one.
 
   - id: voucher
-    title: Go on a £1000 ELEMIS Shopping Spree
-    description: Your wellness escape doesn’t end here; refresh your beauty regime with £1000 to spend at ELEMIS. Fill your shopping basket with products by Britain’s no.1 luxury skincare company and revitalise your skincare rituals.
+    title: Receive £1000 Worth of Elemis Products
+    description: Your wellness escape doesn’t end here; refresh your beauty regime with £1000 of skincare products from ELEMIS. Enjoy a diverse selection of award-winning products by The No.1 British Luxury Skincare Brand and revitalise your skincare routine.
 
 
 competition-form:
   id: comp
   post-url: "#getFormUrl"
-  expiry-date: 2050-01-01
+  expiry-date: 2020-03-02
   fields:
     - id: name
       type: text
@@ -52,7 +52,7 @@ competition-form:
           invalid: true
     - id: opt-in
       type: radio
-      label: Would you like to receive emails from our Partner brand?
+      label: I would like to sign up to be the first to discover exclusive offers, secret sales, and the latest product launches from ELEMIS. Sign up to join the ELEMIS family. For more information please view our <a class="link--underlined" href="https://www.elemis.com/privacy-policy">privacy&nbsp;policy</a>.*
       required: true
       options:
         - id: opt-in-true
@@ -61,61 +61,6 @@ competition-form:
         - id: opt-in-false
           label: 'No'
           value: 'no'
-    - id: storytime
-      type: text-long
-      label: Tell us about your favourite travel experience
-      required: true
-    - id: eggs
-      type: select
-      label: What is your favourite continent?
-      required: true
-      options:
-        - label: Africa
-          value: africa
-        - label: Antarctica
-          value: antarctica
-        - label: Asia
-          value: asia
-        - label: Europe
-          value: europe
-        - label: North America
-          value: north-america
-        - label: Oceania
-          value: oceania
-        - label: South America
-          value: south-america
-    - id: contact
-      type: checkbox
-      label: Do you have a preference on how we should contact you?
-      required: true
-      options:
-        - id: contact-email
-          label: Email
-          value: email
-        - id: contact-post
-          label: Post
-          value: post
-        - id: contact-phone
-          label: Phone
-          value: phone
-    - id: week
-      type: select
-      label: What is your favourite day of the week?
-      options:
-        - label: Monday
-          value: mon
-        - label: Tuesday
-          value: tue
-        - label: Wednesday
-          value: wed
-        - label: Thursday
-          value: thur
-        - label: Friday
-          value: fri
-        - label: Saturday
-          value: sat
-        - label: Sunday
-          value: sun
   submit: Submit Entry
   terms: >
     By submitting your entry, you agree to the <a href="#" class="js-open-modal link--underlined" data-open-modal="competition-terms">terms and conditions</a> of this competition

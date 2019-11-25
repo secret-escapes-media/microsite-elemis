@@ -6,16 +6,16 @@ title: Skincare
 nav: true
 nav-order: 3
 content-page: true
-banner-title: Refresh Your Skincare Ritual With an Exclusive 20% Off Luxurious Elemis Products
-intro: Find your next skincare ritual here. ELEMIS sources only the finest ingredients from above and below the earth’s surface, coupling them with pioneering, science-led and transformative formulas. These innovative products offer powerful results that truly set ELEMIS apart – making them the no.1 luxury skincare company in Britain.
+banner-title: Refresh Your Skincare routine With an Exclusive 20% Off Luxurious Elemis Products*
+intro: Find your next skincare routine here. Defined by nature and led by science, ELEMIS sources only the finest ingredients from above and below the earth’s surface. Pioneering and transformative formulas utilise these organic ingredients for award-winning results. It’s this innovation that creates a skincare range which truly set ELEMIS apart – making them The No.1 British Luxury Skincare Brand.
 intro-content: >
   <div class="vpad--xl width width--lg text--center">
     <p class="text--xxl">{{page.intro}}</p>
-    <p class="text--xxl">Don’t take our word for it; try the products for yourself with an <strong>exclusive 20% discount</strong> for Secret Escapes members! Simply enter the below code at checkout:</p>
-    <div class="vpad--xs">
-      <div class="promo-code">EXACTVOUCHERCODE</div>
+    <p class="text--xxl">Don’t take our word for it; try the products for yourself with an exclusive 20% discount for Secret Escapes members! Simply enter the below code at checkout:</p>
+    <div class="vpad--xs width width--md">
+      <div class="promo-code">SEVIP20</div>
     </div>
-    <a id="track-{{page.id}}-intro-btn" href="{{feature.link}}" class="btn btn--blue">Shop Skincare Now</a>
+    <a id="track-{{page.id}}-intro-btn" href="https://www.elemis.com/skincare" class="btn btn--blue">Shop Skincare Now</a>
   </div>
 
 

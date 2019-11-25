@@ -4,9 +4,9 @@ id: entered
 permalink: /competition/entered/
 nav: false
 
-title: You’ve successfully entered. Good luck!
-intro: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, natus modi accusamus debitis assumenda magnam quo voluptatum quaerat nemo maiores molestiae soluta blanditiis amet in omnis harum, est! Consequatur, nesciunt.
+title: You’ve successfully entered – good luck!
+intro: Whilst you wait, refresh your skincare routine with luxurious ELEMIS products – browse the range here and get an exclusive 20% off*.
 cta:
-  text: See Overview
-  link: "{{site.baseurl}}"
+  text: Shop Skincare Now
+  link: https://www.elemis.com/skincare
 ---

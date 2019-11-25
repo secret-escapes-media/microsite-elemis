@@ -6,7 +6,7 @@ title: The House of&nbsp;ELEMIS
 nav: true
 nav-order: 4
 content-page: true
-intro: Take your beauty rituals one step further by dropping in at the House of ELEMIS. Located in the heart of exclusive Mayfair, indulge in sumptuous treatments at the hands of ELEMIS Elite therapists, who will personalise your experience to give you only the best, most transformative results. Pick your perfect treatment below…
+intro: Take your beauty routine one step further by dropping in at the House of ELEMIS. Located in the heart of exclusive Mayfair, indulge in sumptuous treatments at the hands of ELEMIS Elite therapists, who will personalise your experience to give you only the best, most transformative results. Pick your perfect treatment below…
 intro-content: >
   <div class="vpad--xl">
     <div class="width width--lg text--center">
@@ -18,8 +18,8 @@ intro-content: >
         <div class="col col--7">
           <div class="vpad--sm">
             <h3 class="title title--color title--xs">Exclusive House of ELEMIS offer for Secret Escapes members</h3>
-            <p class="text--normal">Book any 60-minute treatment at The House of ELEMIS and receive a luxury six-piece gift worth £55! Keep skin hydrated through the winter months with your luxury six-piece gift containing award-winning Pro-Collagen skincare </p>
-            <p class="text--normal">Make sure you quote “<strong>Secret Escapes</strong>” when you book to claim your gift!</p>
+            <p class="text--normal">Book any 60-minute treatment at The House of ELEMIS and receive a luxury six-piece gift worth £55! Keep skin hydrated through the winter months with your luxury six-piece gift containing award-winning Pro-Collagen skincare.</p>
+            <p class="text--normal">Make sure you quote “<strong>SecretEscapesVIP</strong>” when you book to claim your gift! To book call <strong>020 7499 4995</strong>.</p>
             <div class="vpad--xxs"></div>
             <a id="track-{{page.id}}-promo-btn" href="https://www.elemis.com/house-of-elemis-london" class="btn btn--sm btn--blue">MAKE A BOOKING ENQUIRY</a>
           </div>

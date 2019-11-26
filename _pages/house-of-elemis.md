@@ -21,7 +21,7 @@ intro-content: >
             <p class="text--normal">Book any 60-minute treatment at The House of ELEMIS and receive a luxury six-piece gift worth £55! Keep skin hydrated through the winter months with your luxury six-piece gift containing award-winning Pro-Collagen skincare.</p>
             <p class="text--normal">Make sure you quote “<strong>SecretEscapesVIP</strong>” when you book to claim your gift! To book call <strong>020 7499 4995</strong>.</p>
             <div class="vpad--xxs"></div>
-            <a id="track-{{page.id}}-promo-btn" href="https://www.elemis.com/house-of-elemis-london" class="btn btn--sm btn--blue">MAKE A BOOKING ENQUIRY</a>
+            <a id="track-{{page.id}}-promo-btn" href="https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fhouse-of-elemis-booking-enquiry" class="btn btn--sm btn--blue">MAKE A BOOKING ENQUIRY</a>
           </div>
         </div>
       </div>
@@ -37,28 +37,28 @@ treatments:
     description: Tackle fine lines and wrinkles with the clinically proven* age-defying benefits of marine charged Padina Pavonica and Red Coral. Targeted massage encourages optimum cellular function for nourished, younger looking skin*.
     time: 1 hour
     price: 115
-    link: https://www.elemis.com/house-of-elemis-treatment-menu-face
+    link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fhouse-of-elemis-treatment-menu-face
 
   - id: biotec-line-eraser
     title: BIOTEC LINE ERASER
     description: Target wrinkles and energise the skin towards optimum performance with microcurrent pulses and red and blue light therapy. A powerfully rejuvenating clinically proven* facial treatment that effectively irons out wrinkles and fills out lines*.
     time: 1 hour
     price: 125
-    link: https://www.elemis.com/house-of-elemis-treatment-menu-face
+    link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fhouse-of-elemis-treatment-menu-face
 
   - id: freestyle-deep-tissue-massage
     title: FREESTYLE DEEP TISSUE MASSAGE
     description: Your therapist will select an aromatic oil according to your concerns, be they muscle pain, stress relief, relaxation or balance. The flowing massage works deeper into the tension, encouraging optimum circulation.
     time: 1 hour
     price: 95
-    link: https://www.elemis.com/house-of-elemis-treatment-menu-body#massage
+    link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fhouse-of-elemis-treatment-menu-body%23massage
 
   - id: poultice-powered-muscle-release
     title: POULTICE-POWERED MUSCLE RELEASE
     description: Sore, aching muscles are worked away with this invigorating and deeply releasing treatment. Each area of tension is specifically targeted with the unique Amber and Quartz poultice to dissolve knots and ease tensions. Completed with a restorative facial massage, tension is dissolved.
     time: 1 hour
     price: 115
-    link: https://www.elemis.com/house-of-elemis-treatment-menu-body#massage
+    link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fhouse-of-elemis-treatment-menu-body%23massage
 ---
 
 <div class="vpad--xxl">
@@ -82,7 +82,7 @@ treatments:
       {% endfor %}
     </div>
     <div class="space--xl text--center">
-      <a id="track-{{page.id}}-all-treatments-btn" href="https://www.elemis.com/house-of-elemis-treatment-menu-face" class="btn btn--lg btn--blue">See More Treatments</a>
+      <a id="track-{{page.id}}-all-treatments-btn" href="https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fhouse-of-elemis-treatment-menu-face" class="btn btn--lg btn--blue">See More Treatments</a>
     </div>
   </div>
 </div>

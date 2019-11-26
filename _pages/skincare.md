@@ -15,7 +15,7 @@ intro-content: >
     <div class="vpad--xs width width--md">
       <div class="promo-code">SEVIP20</div>
     </div>
-    <a id="track-{{page.id}}-intro-btn" href="https://www.elemis.com/skincare" class="btn btn--blue">Shop Skincare Now</a>
+    <a id="track-{{page.id}}-intro-btn" href="https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fskincare" class="btn btn--blue">Shop Skincare Now</a>
   </div>
 terms-and-conditions: "**Independent Clinical Trials 2018"
 
@@ -26,31 +26,31 @@ features:
     title: ULTRA SMART <span class="dont-break-hyphen">PRO-COLLAGEN</span>
     sub-title: Intelligent Skincare
     description: "High Performance Algae meets Targeted Delivery Systems. Clinically proven to deliver transformative results in just 28 days.**"
-    link: https://www.elemis.com/skincare/pro-collagen-anti-wrinkle/ultra-smart-pro-collagen
+    link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fskincare%2Fpro-collagen-anti-wrinkle%2Fultra-smart-pro-collagen
 
   - id: pro-collagen
     title: PRO-COLLAGEN
     sub-title: Anti-Ageing Solutions
     description: Combining powerful marine actives with antioxidant-rich plant extracts, stem cells and innovative delivery systems, Pro-Collagen is a clinically proven, award-winning line that targets multiple signs of ageing, from fine lines and wrinkles, to loss of firmness and elasticity.
-    link: https://www.elemis.com/skincare/pro-collagen-anti-wrinkle
+    link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fskincare%2Fpro-collagen-anti-wrinkle
 
   - id: dynamic-resurfacing
     title: DYNAMIC RESURFACING
     sub-title: Daily Resurfacing & Renewal
     description: ELEMIS Dynamic Resurfacing Collection is formulated with patented Tri-Enzyme Technology to resurface the skin and encourage accelerated cell turnover for improved skin clarity, texture and tone.
-    link: https://www.elemis.com/skincare/resurfacing-tri-enzyme
+    link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fskincare%2Fresurfacing-tri-enzyme
 
   - id: peptide-24-7
     title: PEPTIDE 24/7
     sub-title: Skin Wellness
     description: Multi-tasking treatments that support the skin’s natural processes of defence by day and repair by night.  Leaves the skin looking refreshed, renewed and radiant for a well-rested complexion 24/7.
-    link: https://www.elemis.com/skincare/peptide4
+    link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fskincare%2Fpeptide4
 
   - id: superfood
     title: SUPERFOOD
     sub-title: Skin Health & Nutrition
     description: Prebiotic skincare that balances the skin’s microbiome and feeds the skin with vitamin-packed Superfoods for a healthy-looking glow.
-    link: https://www.elemis.com/skincare/superfood
+    link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fskincare%2Fsuperfood
 
 ---
 

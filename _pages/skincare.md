@@ -7,7 +7,7 @@ nav: true
 nav-order: 3
 content-page: true
 banner-title: Refresh Your Skincare routine With an Exclusive 20% Off Award-Winning ELEMIS Skincare*
-intro: Find your next skincare routine here. Defined by nature and led by science, ELEMIS sources only the finest ingredients from above and below the earth’s surface. Pioneering and transformative formulas utilise these organic ingredients for award-winning results. It’s this innovation that creates a skincare range which truly set ELEMIS apart – making them The No.1 British Luxury Skincare Brand.
+intro: Shake up your skincare routine with ELEMIS. Defined by nature and led by science, ELEMIS sources only the finest ingredients from above and below the earth’s surface. Pioneering and transformative formulas utilise these ingredients for award-winning results. It’s this innovation that creates a skincare range which truly set ELEMIS apart – making them the No.1 British luxury skincare brand.
 intro-content: >
   <div class="vpad--xl width width--lg text--center">
     <p class="text--xxl">{{page.intro}}</p>
@@ -31,25 +31,25 @@ features:
   - id: pro-collagen
     title: PRO-COLLAGEN
     sub-title: Anti-Ageing Solutions
-    description: Combining powerful marine actives with antioxidant-rich plant extracts, stem cells and innovative delivery systems, Pro-Collagen is a clinically proven, award-winning line that targets multiple signs of ageing, from fine lines and wrinkles, to loss of firmness and elasticity.
+    description: Combining powerful marine actives with antioxidant-rich plant extracts, Pro-Collagen is an award-winning skincare line that delicately smooths and reduces the appearance of fine lines and wrinkles.
     link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fskincare%2Fpro-collagen-anti-wrinkle
 
   - id: dynamic-resurfacing
     title: DYNAMIC RESURFACING
     sub-title: Daily Resurfacing & Renewal
-    description: ELEMIS Dynamic Resurfacing Collection is formulated with patented Tri-Enzyme Technology to resurface the skin and encourage accelerated cell turnover for improved skin clarity, texture and tone.
+    description: ELEMIS’ Dynamic Resurfacing Collection is formulated with patented Tri-Enzyme Technology to promote the natural resurfacing of the skin and encourage skin’s natural cell turnover for improved skin clarity, texture and tone.
     link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fskincare%2Fresurfacing-tri-enzyme
 
   - id: peptide-24-7
     title: PEPTIDE 24/7
     sub-title: Skin Wellness
-    description: Multi-tasking treatments that support the skin’s natural processes of defence by day and repair by night.  Leaves the skin looking refreshed, renewed and radiant for a well-rested complexion 24/7.
+    description: Multi-tasking treatments that support the skin’s natural processes of defence by day and renewal by night. Leaves the skin looking refreshed, renewed and radiant for a well-rested complexion 24/7.
     link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fskincare%2Fpeptide4
 
   - id: superfood
     title: SUPERFOOD
     sub-title: Skin Health & Nutrition
-    description: Prebiotic skincare that balances the skin’s microbiome and feeds the skin with vitamin-packed Superfoods for a healthy-looking glow.
+    description: Prebiotic skincare that helps to balance the skin’s microbiome and nourishes the skin with vitamin-rich superfoods for a healthy-looking glow.
     link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fskincare%2Fsuperfood
 
 ---

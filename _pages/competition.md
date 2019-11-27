@@ -7,7 +7,7 @@ nav-order: 5
 
 title: Compet&shy;ition
 long-title: Win an opulent spa escape plus £1000 worth of ELEMIS products
-intro: In the idyllic and historic spa town of Harrogate sits Rudding Park, a gorgeous manor getaway where luxury and relaxation await. From long spa dips to private cinema screenings, luxury skincare shopping spree and exquisite dining, this competition is set to replenish even the most wearied traveller.
+intro: In the idyllic and historic spa town of Harrogate sits Rudding Park, a gorgeous manor getaway where luxury and relaxation await. From long spa dips to private cinema screenings, £1000 worth of ELEMIS skincare and exquisite dining, this competition is set to replenish even the most wearied traveller.
 enter-cta: Enter Now
 
 features:
@@ -22,7 +22,7 @@ features:
 
   - id: voucher
     title: Receive £1000 Worth of Elemis Products
-    description: Your wellness escape doesn’t end here; refresh your beauty regime with £1000 of skincare products from ELEMIS. Enjoy a diverse selection of award-winning products by The No.1 British Luxury Skincare Brand and revitalise your skincare routine.
+    description: Your wellness escape doesn’t end here; refresh your beauty regime with £1000 of skincare products from ELEMIS. Enjoy a diverse selection of award-winning products by the No.1 British luxury skincare brand and revitalise your skincare routine.
 
 
 competition-form:

@@ -18,7 +18,7 @@ intro-content: >
         <div class="col col--7">
           <div class="vpad--sm">
             <h3 class="title title--color title--xs">Exclusive House of ELEMIS offer for Secret Escapes members</h3>
-            <p class="text--normal">Book any 60-minute treatment at The House of ELEMIS and receive a luxury six-piece gift worth £55! Keep skin hydrated through the winter months with your luxury six-piece gift containing award-winning Pro-Collagen skincare.</p>
+            <p class="text--normal">Book any 60-minute treatment at The House of ELEMIS and receive a luxury six-piece gift worth £55!* Keep skin hydrated through the winter months with your luxury six-piece gift containing award-winning Pro-Collagen skincare.</p>
             <p class="text--normal">Make sure you quote “<strong>SecretEscapesVIP</strong>” when you book to claim your gift! To book call <strong>020 7499 4995</strong>.</p>
             <div class="vpad--xxs"></div>
             <a id="track-{{page.id}}-promo-btn" href="https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fhouse-of-elemis-booking-enquiry" class="btn btn--sm btn--blue">MAKE A BOOKING ENQUIRY</a>
@@ -27,21 +27,23 @@ intro-content: >
       </div>
     </div>
   </div>
-terms-and-conditions: "*Independent Clinical Trials"
+terms-and-conditions:
+  - "*Terms and conditions apply. One gift per treatment purchase when customer quotes “SecretEscapesVIP“. One gift per customer. Offer ends on 28th February 2020 or while stocks last."
+  - "**Independent Clinical Trials"
 
 
 treatments:
 
   - id: pro-collagen-age-defy
     title: PRO-COLLAGEN AGE DEFY
-    description: Tackle fine lines and wrinkles with the clinically proven* age-defying benefits of marine charged Padina Pavonica and Red Coral. Targeted massage encourages optimum cellular function for nourished, younger looking skin*.
+    description: Tackle fine lines and wrinkles with the clinically proven* age-defying benefits of marine charged Padina Pavonica and Red Coral. Targeted massage encourages optimum cellular function for nourished, younger looking skin**.
     time: 1 hour
     price: 115
     link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fhouse-of-elemis-treatment-menu-face
 
   - id: biotec-line-eraser
     title: BIOTEC LINE ERASER
-    description: Target wrinkles and energise the skin towards optimum performance with microcurrent pulses and red and blue light therapy. A powerfully rejuvenating clinically proven* facial treatment that effectively irons out wrinkles and fills out lines*.
+    description: Target wrinkles and energise the skin towards optimum performance with microcurrent pulses and red and blue light therapy. A powerfully rejuvenating clinically proven* facial treatment that effectively irons out wrinkles and fills out lines**.
     time: 1 hour
     price: 125
     link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fhouse-of-elemis-treatment-menu-face

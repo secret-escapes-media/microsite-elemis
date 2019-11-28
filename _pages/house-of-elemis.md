@@ -36,14 +36,14 @@ treatments:
 
   - id: pro-collagen-age-defy
     title: PRO-COLLAGEN AGE DEFY
-    description: Tackle fine lines and wrinkles with the clinically proven* age-defying benefits of marine charged Padina Pavonica and Red Coral. Targeted massage encourages optimum cellular function for nourished, younger looking skin**.
+    description: Tackle fine lines and wrinkles with the clinically proven age-defying benefits of marine charged Padina Pavonica and Red Coral. Targeted massage encourages optimum cellular function for nourished, younger looking skin**.
     time: 1 hour
     price: 115
     link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fhouse-of-elemis-treatment-menu-face
 
   - id: biotec-line-eraser
     title: BIOTEC LINE ERASER
-    description: Target wrinkles and energise the skin towards optimum performance with microcurrent pulses and red and blue light therapy. A powerfully rejuvenating clinically proven* facial treatment that effectively irons out wrinkles and fills out lines**.
+    description: Target wrinkles and energise the skin towards optimum performance with microcurrent pulses and red and blue light therapy. A powerfully rejuvenating clinically proven facial treatment that effectively irons out wrinkles and fills out lines**.
     time: 1 hour
     price: 125
     link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fhouse-of-elemis-treatment-menu-face

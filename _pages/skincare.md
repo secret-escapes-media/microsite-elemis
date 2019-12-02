@@ -2,7 +2,7 @@
 layout: content
 id: skincare
 permalink: /skincare/
-title: Skincare
+title: Skin&shy;care
 nav: true
 nav-order: 3
 content-page: true
@@ -64,7 +64,7 @@ features:
       <h4 class="title title--xxs">{{feature.sub-title}}</h4>
       <p class="text--xxl">{{feature.description}}</p>
       <div class="space--sm"></div>
-      <a id="track-{{page.id}}-{{feautre.id}}-btn" href="{{feature.link}}" class="btn btn--blue">Shop The Range</a>
+      <a id="track-{{page.id}}-{{feature.id}}-btn" href="{{feature.link}}" class="btn btn--blue">Shop The Range</a>
     </div>
   </div>
 {% endfor %}

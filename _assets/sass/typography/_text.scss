@@ -2,7 +2,12 @@
 
 .text {
   // sizes
-  &--xxxxl { font-size: 1.5rem; line-height: 1.6; letter-spacing: 0; }
+  &--xxxxl {
+    font-size: 1.4rem;
+    line-height: 1.6;
+    letter-spacing: 0;
+    @include bp($lg){ font-size: 1.5rem; }
+  }
   &--xxxl  { font-size: 1.33rem; line-height: 1.6; letter-spacing: 0; }
   &--xxl   { font-size: 1.2rem; line-height: 1.6; letter-spacing: 0; }
   &--xl    { font-size: 1.1rem; line-height: 1.6; letter-spacing: 0; }

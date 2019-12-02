@@ -5,7 +5,7 @@ layout: default
 <div class="vpad--xxl bg--light">
   <div class="container">
     <div class="width width--xl text--center">
-      <p class="text--xxxxl">Indulge yourself in the spa collection from Secret Escapes and ELEMIS.</p>
+      <p class="text--xxxxl">Indulge yourself in the spa collection from Secret&nbsp;Escapes and&nbsp;ELEMIS.</p>
       <p class="text--lg">{{site.description}}</p>
       <p class="text--lg">Find your perfect escape and treat yourself to products from the No.1 British luxury skincare brand ELEMIS, with exclusive offers for Secret Escapes members only. Discover the House of ELEMIS, where you can indulge in luxurious treatments in the heart of London’s exclusive Mayfair – plus receive an extra gift when you book; because we all deserve to be pampered once in a while...</p>
       <div class="space--md"></div>
@@ -18,11 +18,11 @@ layout: default
   <div class="width width--xxl vpad--xxl">
     {% assign content-pages = site.html_pages | where: 'content-page', 'true' | sort: 'nav-order' %}
     {% for page in content-pages %}
-      <div class="bg-img bg-img--21-9 border" style="background-image: url('{{site.img}}/content/{{page.id}}/bg.jpg');">
+      <div class="bg-img bg-img--3-2 bg-img--md-16-9 border bg-img--lg-21-9 border" style="background-image: url('{{site.img}}/content/{{page.id}}/bg.jpg');">
         <a href="{{site.baseurl}}{{page.url}}" class="bg-img__link"></a>
         <div class="bg-img__bg-overlay"></div>
         <div class="bg-img__content bg-img__content--left">
-          <h3 class="title title--xxl">{{page.title}}</h3>
+          <h3 class="title title--overview-nav">{{page.title}}</h3>
         </div>
       </div>
       {% unless forloop.last %}

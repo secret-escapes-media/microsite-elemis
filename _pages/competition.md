@@ -27,7 +27,7 @@ features:
 
 competition-form:
   id: comp
-  post-url: "#getFormUrl"
+  post-url: https://getform.io/f/3182e81e-bd60-4802-8aa8-9320d2adb31a
   expiry-date: 2020-03-02
   fields:
     - id: name
@@ -52,7 +52,7 @@ competition-form:
           invalid: true
     - id: opt-in
       type: radio
-      label: I would like to sign up to be the first to discover exclusive offers, secret sales, and the latest product launches from ELEMIS. Sign up to join the ELEMIS family. For more information please view our <a class="link--underlined" href="https://www.elemis.com/privacy-policy">privacy&nbsp;policy</a>.*
+      label: I would like to sign up to be the first to discover exclusive offers, secret sales, and the latest product launches from ELEMIS. Sign up to join the ELEMIS family. For more information please view our <a class="link--underlined" href="https://www.elemis.com/privacy-policy" target="_blank">privacy&nbsp;policy</a>.*
       required: true
       options:
         - id: opt-in-true

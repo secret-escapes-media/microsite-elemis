@@ -1,6 +1,20 @@
 // general styles for the project that wouldn't be a reuseable component
 
-.logo-banner { max-width: 680px; }
+.logo-banner {
+  padding-left: $s-2;
+  padding-right: $s-2;
+  max-width: 550px;
+  @include bp($xxl) { max-width: 680px; }
+ }
+
+ .bg--promo {
+   background-color: #fde8d6;
+   background-image: url('../img/content/the-house-of-elemis/offer-mobile.jpg');
+   @include background-attributes;
+   @include bp($lg) {
+     background-image: url('../img/content/the-house-of-elemis/offer.jpg');
+   }
+ }
 
 .border { border-bottom: 5px solid $el-blue; }
 

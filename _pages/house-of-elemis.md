@@ -2,10 +2,13 @@
 layout: content
 id: the-house-of-elemis
 permalink: /the-house-of-elemis/
-title: The House of&nbsp;ELEMIS
+title: The House of ELEMIS
 nav: true
 nav-order: 4
 content-page: true
+banner:
+  title: >
+    The House <br class="desktop-break">of ELEMIS
 intro: Take your beauty routine one step further by dropping in at the House of ELEMIS. Located in the heart of exclusive Mayfair, indulge in sumptuous treatments at the hands of ELEMIS Elite therapists, who will personalise your experience to give you only the best, most transformative results. Pick your perfect treatment below…
 intro-content: >
   <div class="vpad--xl">
@@ -13,7 +16,7 @@ intro-content: >
       <p class="text--xxl">{{page.intro}}</p>
     </div>
     <div class="space--lg"></div>
-    <div class="width width--xl boxpad--xl bg--dark bg--img text--blue" style="background-image: url('{{site.img}}/content/{{page.id}}/offer.jpg');">
+    <div class="width width--xl boxpad--xl bg--promo text--blue">
       <div class="row row--start">
         <div class="col col--7">
           <div class="vpad--sm">
@@ -63,9 +66,9 @@ treatments:
     link: https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fhouse-of-elemis-treatment-menu-body%23massage
 ---
 
-<div class="vpad--xxl">
+<div class="container vpad--xxl">
   <div class="width width--xxl">
-    <h2 class="title title--lg title--color text--center width width--lg">Bestselling Facials & Body&nbsp;Treatments</h2>
+    <h2 class="title title--lg title--color text--center width width--lg">Bestselling Facials & Body Treatments</h2>
     <div class="space--xl"></div>
     <div class="row row--6-6 row--gutters-lg">
       {% for treatment in page.treatments %}

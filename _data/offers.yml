@@ -1,13 +1,3 @@
-- title: Summer Lodge Country House Hotel
-  location: Evershot, Dorset
-  description: Five-star Relais & Châteaux Dorset hotel
-  price: 195
-  price-description: per room per night
-  saved: 38
-  expires: 2019/12/10
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/56453/bb384c8b_9e9a_4cce_a00b_1bdcd154b049.jpg?auto=format,compress
-  link: https://www.secretescapes.com/summer-lodge-country-house-evershot-dorset/sale
-
 - title: Hoar Cross Hall
   location: Hoar Cross, Staffordshire
   description: Relax at a Grade II-listed Staffordshire manor with spa
@@ -25,7 +15,7 @@
   price-description: per room per night
   saved: 55
   expires: 2019/12/17
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103757/6a85fbea_79da_45be_9625_d097efca2f7f.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103757/4f6a140b_eb7d_474a_8fc5_b0b846a1049a.jpg?auto=format,compress
   link: https://www.secretescapes.com/macdonald-old-england-hotel-and-spa-windermere-lake-district/sale
 
 - title: New Park Manor

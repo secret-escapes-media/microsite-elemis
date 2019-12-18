@@ -1,12 +1,4 @@
-- title: Hoar Cross Hall
-  location: Hoar Cross, Staffordshire
-  description: Relax at a Grade II-listed Staffordshire manor with spa
-  price: 250
-  price-description: per room per night
-  saved: 47
-  expires: 2019/12/17
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/55896/9de6afed_9b67_4726_8c3b_641f6c34cc46.jpg?auto=format,compress
-  link: https://www.secretescapes.com/hoar-cross-hall-hoar-cross-staffordshire/sale
+
 
 - title: Macdonald Old England Hotel & Spa
   location: Windermere, Lake District
@@ -37,3 +29,13 @@
   expires: 2019/12/24
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/105969/a51af4bc_1cd8_4463_865a_36114bec1682.jpg?auto=format,compress
   link: https://www.secretescapes.com/champneys-resorts-choose-from-four-locations-across-the-uk-sale/sale
+
+- title: Woolley Grange Hotel
+  location: Bradford-On-Avon, Wiltshire
+  description: Jacobean manor house on the edge of the Cotswolds
+  price: 119
+  price-description: per room per night
+  saved: 49
+  expires: 2019/12/31
+  image: https://d2g6qre7voj6kv.cloudfront.net/hotels/134/fdd05161_363b_4737_b3f4_30f86ba790b4.jpg?auto=format,compress
+  link: https://www.secretescapes.com/woolley-grange-bradford-on-avon-wiltshire/sale-hotel

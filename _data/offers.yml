@@ -1,34 +1,12 @@
-
-
-- title: Macdonald Old England Hotel & Spa
-  location: Windermere, Lake District
-  description: A traditional Lake District stay on the banks of Lake Windermere
-  price: 139
-  price-description: per room per night
-  saved: 55
-  expires: 2019/12/17
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103757/4f6a140b_eb7d_474a_8fc5_b0b846a1049a.jpg?auto=format,compress
-  link: https://www.secretescapes.com/macdonald-old-england-hotel-and-spa-windermere-lake-district/sale
-
 - title: New Park Manor
   location: Brockenhurst, Hampshire
   description: Elegant New Forest stay with an award-winning spa
   price: 119
   price-description: per room per night
   saved: 47
-  expires: 2019/12/17
+  expires: 2020/01/13
   image: https://d2g6qre7voj6kv.cloudfront.net/hotels/119/56ce5cff_5f10_4a00_9ff2_11ca0abd9f70.jpg?auto=format,compress
   link: https://www.secretescapes.com/new-park-manor-brockenhurst-hampshire/sale-hotel
-
-- title: Champneys Resorts
-  location: Choose from four locations across the UK
-  description: A luxe spa break at a choice of renowned Champneys resorts
-  price: 175
-  price-description: per room per night
-  saved: 46
-  expires: 2019/12/24
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105969/a51af4bc_1cd8_4463_865a_36114bec1682.jpg?auto=format,compress
-  link: https://www.secretescapes.com/champneys-resorts-choose-from-four-locations-across-the-uk-sale/sale
 
 - title: Woolley Grange Hotel
   location: Bradford-On-Avon, Wiltshire
@@ -36,6 +14,6 @@
   price: 119
   price-description: per room per night
   saved: 49
-  expires: 2019/12/31
+  expires: 2020/01/13
   image: https://d2g6qre7voj6kv.cloudfront.net/hotels/134/fdd05161_363b_4737_b3f4_30f86ba790b4.jpg?auto=format,compress
   link: https://www.secretescapes.com/woolley-grange-bradford-on-avon-wiltshire/sale-hotel

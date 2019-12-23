@@ -28,7 +28,7 @@ features:
 competition-form:
   id: comp
   post-url: https://getform.io/f/3182e81e-bd60-4802-8aa8-9320d2adb31a
-  expiry-date: 2020-03-02
+  expiry-date: 2020-01-18
   fields:
     - id: name
       type: text

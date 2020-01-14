@@ -1,19 +1,49 @@
-- title: New Park Manor
-  location: Brockenhurst, Hampshire
-  description: Elegant New Forest stay with an award-winning spa
-  price: 119
+- title: Ardencote
+  location: Claverdon, Warwickshire
+  description: AA Rosette dining and a superb spa in Warwickshire's countryside
+  price: 99
+  price-description: per room per night
+  saved: 24
+  expires: 2020/01/28
+  image: https://secretescapes-web.imgix.net/sales/94424/8b9400f7_57ae_407e_be57_11d69388dd2b.jpg?auto=format,compress
+  link: https://www.secretescapes.com/ardencote-claverdon-warwickshire/sale
+
+- title: Polurrian on the Lizard
+  location: Mullion, Cornwall
+  description: Colourful Cornish retreat with coastal views
+  price: 99
   price-description: per room per night
   saved: 47
-  expires: 2020/01/13
-  image: https://d2g6qre7voj6kv.cloudfront.net/hotels/119/56ce5cff_5f10_4a00_9ff2_11ca0abd9f70.jpg?auto=format,compress
-  link: https://www.secretescapes.com/new-park-manor-brockenhurst-hampshire/sale-hotel
+  expires: 2020/01/28
+  image: https://secretescapes-web.imgix.net/hotels/117/e3f1dc1b_8930_48c3_9640_fdfe80cf619f.jpg?auto=format,compress
+  link: https://www.secretescapes.com/polurrian-on-the-lizard-mullion-cornwall/sale-hotel
 
-- title: Woolley Grange Hotel
-  location: Bradford-On-Avon, Wiltshire
-  description: Jacobean manor house on the edge of the Cotswolds
+- title: The Elms Hotel & Spa
+  location: Abberley, Worcestershire
+  description: Chic Worcestershire mansion house spa retreat
   price: 119
   price-description: per room per night
-  saved: 49
-  expires: 2020/01/13
-  image: https://d2g6qre7voj6kv.cloudfront.net/hotels/134/fdd05161_363b_4737_b3f4_30f86ba790b4.jpg?auto=format,compress
-  link: https://www.secretescapes.com/woolley-grange-bradford-on-avon-wiltshire/sale-hotel
+  saved: 37
+  expires: 2020/01/28
+  image: https://secretescapes-web.imgix.net/sales/73770/b104c04b_997e_4620_938d_e6fc8332d161.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-elms-hotel-and-spa-abberley-worcestershire/sale
+
+- title: Rushton Hall Hotel & Spa
+  location: Rushton, Northamptonshire
+  description: Grade I-listed Northamptonshire hotel with award-winning dining
+  price: 119
+  price-description: per room per night
+  saved: 42
+  expires: 2020/01/28
+  image: https://secretescapes-web.imgix.net/sales/100165/33586263_8271_4116_97a1_184aac19b12d.jpg?auto=format,compress
+  link: https://www.secretescapes.com/rushton-hall-hotel-and-spa-rushton-northamptonshire/sale
+
+- title: Summer Lodge Country House Hotel
+  location: Evershot, Dorset
+  description: Five-star Relais & Châteaux Dorset hotel
+  price: 195
+  price-description: per room per night
+  saved: 69
+  expires: 2020/01/28
+  image: https://secretescapes-web.imgix.net/sales/56453/511c7747_2cc1_481c_97a9_39b49c55c729.jpg?auto=format,compress
+  link: https://www.secretescapes.com/summer-lodge-country-house-hotel-evershot-dorset-uk/sale

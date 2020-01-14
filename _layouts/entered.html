@@ -11,19 +11,9 @@
       <div class="container">
         <div class="width width--lg vpad--xxl text--center">
           <h1 class="title title--md">{{page.title}}</h1>
-          <p class="text--xxl">{{page.intro}}</p>
-          <p>Simply enter the below code at checkout:</p>
-          <div class="vpad--xs width width--md">
-            <div class="promo-code">SEVIP20</div>
-          </div>
-          <a id="track-{{page.id}}-btn" href="{{page.cta.link | liquify}}" class="btn btn--blue">{{page.cta.text}}</a>
+          <div class="space--sm"></div>
+          <a href="{{page.cta.link | liquify}}" class="btn btn--blue">{{page.cta.text}}</a>
         </div>
-        <hr>
-        <div class="space--lg"></div>
-        <div class="width width--md text--sm">
-          <p>{{site.discount-tandcs}}</p>
-        </div>
-        <div class="space--xxxxl"></div>
       </div>
     </div>
 

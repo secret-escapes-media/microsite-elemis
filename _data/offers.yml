@@ -3,30 +3,10 @@
   description: AA Rosette dining and a superb spa in Warwickshire's countryside
   price: 99
   price-description: per room per night
-  saved: 24
-  expires: 2020/01/28
+  saved: 38
+  expires: 2020/02/11
   image: https://secretescapes-web.imgix.net/sales/94424/8b9400f7_57ae_407e_be57_11d69388dd2b.jpg?auto=format,compress
   link: https://www.secretescapes.com/ardencote-claverdon-warwickshire/sale
-
-- title: Polurrian on the Lizard
-  location: Mullion, Cornwall
-  description: Colourful Cornish retreat with coastal views
-  price: 99
-  price-description: per room per night
-  saved: 47
-  expires: 2020/01/28
-  image: https://secretescapes-web.imgix.net/hotels/117/e3f1dc1b_8930_48c3_9640_fdfe80cf619f.jpg?auto=format,compress
-  link: https://www.secretescapes.com/polurrian-on-the-lizard-mullion-cornwall/sale-hotel
-
-- title: The Elms Hotel & Spa
-  location: Abberley, Worcestershire
-  description: Chic Worcestershire mansion house spa retreat
-  price: 119
-  price-description: per room per night
-  saved: 37
-  expires: 2020/01/28
-  image: https://secretescapes-web.imgix.net/sales/73770/b104c04b_997e_4620_938d_e6fc8332d161.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-elms-hotel-and-spa-abberley-worcestershire/sale
 
 - title: Rushton Hall Hotel & Spa
   location: Rushton, Northamptonshire
@@ -34,7 +14,7 @@
   price: 119
   price-description: per room per night
   saved: 42
-  expires: 2020/01/28
+  expires: 2020/02/11
   image: https://secretescapes-web.imgix.net/sales/100165/33586263_8271_4116_97a1_184aac19b12d.jpg?auto=format,compress
   link: https://www.secretescapes.com/rushton-hall-hotel-and-spa-rushton-northamptonshire/sale
 
@@ -44,6 +24,26 @@
   price: 195
   price-description: per room per night
   saved: 69
-  expires: 2020/01/28
+  expires: 2020/02/11
   image: https://secretescapes-web.imgix.net/sales/56453/511c7747_2cc1_481c_97a9_39b49c55c729.jpg?auto=format,compress
   link: https://www.secretescapes.com/summer-lodge-country-house-hotel-evershot-dorset-uk/sale
+
+- title: Champneys Springs
+  location: Packington, Leicestershire
+  description: Champneys spa stay in lovely Leicestershire
+  price: 180
+  price-description: per room per night
+  saved: 45
+  expires: 2020/02/11
+  image: https://secretescapes-web.imgix.net/sales/34534/11cb61f5_903b_4d40_ac82_d9ce43ada982.jpg?auto=format,compress
+  link: https://www.secretescapes.com/champneys-springs-packington-leicestershire/sale
+
+- title: Eastwell Manor Champneys Hotel & Spa
+  location: Ashford, Kent
+  description: Kent manor house with plush Champneys spa
+  price: 198
+  price-description: per room per night
+  saved: 50
+  expires: 2020/02/11
+  image: https://secretescapes-web.imgix.net/sales/60131/4be4bbc6_8870_4767_a800_8440eb306049.jpg?auto=format,compress
+  link: https://www.secretescapes.com/eastwell-manor-champneys-hotel-and-spa-ashford-kent/sale

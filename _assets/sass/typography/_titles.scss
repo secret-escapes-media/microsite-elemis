@@ -38,13 +38,13 @@
     @include bp($lg){ font-size: $s7; }
     @include bp($xl){ font-size: $s8; }
   }
-  &--competition {
-    font-size: $s4;
-    @include bp($sm){ font-size: $s5; }
-    @include bp($lg){ font-size: $s6; }
-    @include bp($xl){ font-size: $s7; }
-    @include bp($xxl){ font-size: $s8; }
-  }
+  // &--competition {
+  //   font-size: $s4;
+  //   @include bp($sm){ font-size: $s5; }
+  //   @include bp($lg){ font-size: $s6; }
+  //   @include bp($xl){ font-size: $s7; }
+  //   @include bp($xxl){ font-size: $s8; }
+  // }
 }
 
 .sub-title {

@@ -31,7 +31,8 @@ intro-content: >
     </div>
   </div>
 terms-and-conditions:
-  - "*Terms and conditions apply. One gift per treatment purchase when customer quotes “SecretEscapesVIP“. One gift per customer. Offer ends on 28th February 2020 or while stocks last."
+  - >
+    {{site.house-of-elemis-tandcs}}
   - "**Independent Clinical Trials"
 
 

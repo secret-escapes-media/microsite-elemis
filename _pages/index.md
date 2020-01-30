@@ -10,4 +10,8 @@ banner:
   title: >
     <img class="logo-banner" src="{{site.img}}/logo/partner.svg" alt="Elemis">
   title-sub: Spa Collection
+
+terms-and-conditions:
+  - >
+    {{site.house-of-elemis-tandcs}}
 ---

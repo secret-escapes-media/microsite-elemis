@@ -15,7 +15,7 @@ layout: default
 </div>
 
 <div class="container">
-  <div class="width width--xxl vpad--xxl">
+  <div class="width width--xxl space--xxxl">
     {% assign content-pages = site.html_pages | where: 'content-page', 'true' | sort: 'nav-order' %}
     {% for page in content-pages %}
       <div class="bg-img bg-img--3-2 bg-img--md-16-9 border bg-img--lg-21-9 border" style="background-image: url('{{site.img}}/content/{{page.id}}/bg.jpg');">

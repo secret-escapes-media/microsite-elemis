@@ -18,9 +18,9 @@ intro-content: >
     <a id="track-{{page.id}}-intro-btn" href="https://click.linksynergy.com/deeplink?id=rg1rVdkt0EQ&mid=42744&murl=https%3A%2F%2Fwww.elemis.com%2Fskincare" class="btn btn--blue">Shop Skincare Now</a>
   </div>
 terms-and-conditions:
-  - "**Independent Clinical Trials 2018"
-  - >
+  - > 
     **{{site.house-of-elemis-tandcs}}
+  - "**Independent Clinical Trials 2018"
 
 
 features:

@@ -13,11 +13,11 @@
 
     <div class="content-spacing section-spacing">
       {{ content }}
-    </div>
 
-    {% unless page.id == 'the-house-of-elemis' %}
-      {% include page/promo-house-of-elemis.html %}
-    {% endunless %}
+      {% unless page.id == 'the-house-of-elemis' %}
+        {% include page/promo-house-of-elemis.html %}
+      {% endunless %}
+    </div>
 
     {% include page/footer.html %}
 

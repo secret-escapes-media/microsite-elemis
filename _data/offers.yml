@@ -1,30 +1,10 @@
-- title: Ardencote
-  location: Claverdon, Warwickshire
-  description: AA Rosette dining and a superb spa in Warwickshire's countryside
-  price: 99
-  price-description: per room per night
-  saved: 38
-  expires: 2020/02/11
-  image: https://secretescapes-web.imgix.net/sales/94424/8b9400f7_57ae_407e_be57_11d69388dd2b.jpg?auto=format,compress
-  link: https://www.secretescapes.com/ardencote-claverdon-warwickshire/sale
-
-- title: Rushton Hall Hotel & Spa
-  location: Rushton, Northamptonshire
-  description: Grade I-listed Northamptonshire hotel with award-winning dining
-  price: 119
-  price-description: per room per night
-  saved: 42
-  expires: 2020/02/11
-  image: https://secretescapes-web.imgix.net/sales/100165/33586263_8271_4116_97a1_184aac19b12d.jpg?auto=format,compress
-  link: https://www.secretescapes.com/rushton-hall-hotel-and-spa-rushton-northamptonshire/sale
-
 - title: Summer Lodge Country House Hotel
   location: Evershot, Dorset
   description: Five-star Relais & Châteaux Dorset hotel
-  price: 195
+  price: 279
   price-description: per room per night
-  saved: 69
-  expires: 2020/02/11
+  saved: 54
+  expires: 2020/02/18
   image: https://secretescapes-web.imgix.net/sales/56453/511c7747_2cc1_481c_97a9_39b49c55c729.jpg?auto=format,compress
   link: https://www.secretescapes.com/summer-lodge-country-house-hotel-evershot-dorset-uk/sale
 
@@ -34,7 +14,7 @@
   price: 180
   price-description: per room per night
   saved: 45
-  expires: 2020/02/11
+  expires: 2020/02/18
   image: https://secretescapes-web.imgix.net/sales/34534/11cb61f5_903b_4d40_ac82_d9ce43ada982.jpg?auto=format,compress
   link: https://www.secretescapes.com/champneys-springs-packington-leicestershire/sale
 
@@ -44,6 +24,26 @@
   price: 198
   price-description: per room per night
   saved: 50
-  expires: 2020/02/11
-  image: https://secretescapes-web.imgix.net/sales/60131/4be4bbc6_8870_4767_a800_8440eb306049.jpg?auto=format,compress
+  expires: 2020/02/18
+  image: https://secretescapes-web.imgix.net/sales/60131/fd34d803_6147_4124_aa4a_a8dc9695a970.jpg?auto=format,compress
   link: https://www.secretescapes.com/eastwell-manor-champneys-hotel-and-spa-ashford-kent/sale
+
+- title: Wood Hall Hotel & Spa
+  location: Wetherby, West Yorkshire
+  description: Historic Yorkshire countryside spa hotel
+  price: 169
+  price-description: per room per night
+  saved: 41
+  expires: 2020/02/25
+  image: https://secretescapes-web.imgix.net/sales/100128/69ec8534_ec92_4d87_a634_1c783aad6b76.jpg?auto=format,compress
+  link: https://www.secretescapes.com/wood-hall-hotel-and-spa-wetherby-west-yorkshire/sale
+
+- title: Macdonald Berystede Hotel & Spa
+  location: Ascot, Berkshire
+  description: Grand French château-style stately home near Windsor
+  price: 109
+  price-description: per room per night
+  saved: 51
+  expires: 2020/02/25
+  image: https://secretescapes-web.imgix.net/sales/45006/9b063eb5_3ecc_490a_92bc_e8f613e42297.jpg?auto=format,compress
+  link: https://www.secretescapes.com/macdonald-berystede-hotel-and-spa-ascot-berkshire/sale

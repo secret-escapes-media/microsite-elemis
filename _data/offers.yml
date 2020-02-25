@@ -1,33 +1,12 @@
-
 - title: Champneys Springs
   location: Packington, Leicestershire
   description: Champneys spa stay in lovely Leicestershire
   price: 180
   price-description: per room per night
   saved: 45
-  expires: 2020/02/18
+  expires: 2020/03/03
   image: https://secretescapes-web.imgix.net/sales/34534/11cb61f5_903b_4d40_ac82_d9ce43ada982.jpg?auto=format,compress
   link: https://www.secretescapes.com/champneys-springs-packington-leicestershire/sale
-
-- title: Eastwell Manor Champneys Hotel & Spa
-  location: Ashford, Kent
-  description: Kent manor house with plush Champneys spa
-  price: 198
-  price-description: per room per night
-  saved: 50
-  expires: 2020/02/18
-  image: https://secretescapes-web.imgix.net/sales/60131/fd34d803_6147_4124_aa4a_a8dc9695a970.jpg?auto=format,compress
-  link: https://www.secretescapes.com/eastwell-manor-champneys-hotel-and-spa-ashford-kent/sale
-
-- title: Wood Hall Hotel & Spa
-  location: Wetherby, West Yorkshire
-  description: Historic Yorkshire countryside spa hotel
-  price: 169
-  price-description: per room per night
-  saved: 41
-  expires: 2020/02/25
-  image: https://secretescapes-web.imgix.net/sales/100128/69ec8534_ec92_4d87_a634_1c783aad6b76.jpg?auto=format,compress
-  link: https://www.secretescapes.com/wood-hall-hotel-and-spa-wetherby-west-yorkshire/sale
 
 - title: Macdonald Berystede Hotel & Spa
   location: Ascot, Berkshire
@@ -35,6 +14,16 @@
   price: 109
   price-description: per room per night
   saved: 51
-  expires: 2020/02/25
-  image: https://secretescapes-web.imgix.net/sales/45006/9b063eb5_3ecc_490a_92bc_e8f613e42297.jpg?auto=format,compress
+  expires: 2020/03/03
+  image: https://secretescapes-web.imgix.net/sales/38770/d9e75d66_f4c6_4759_8a6b_31c9b4bf3d58.jpg?auto=format,compress
   link: https://www.secretescapes.com/macdonald-berystede-hotel-and-spa-ascot-berkshire/sale
+
+- title: Champneys Henlow
+  location: Henlow, Bedfordshire
+  description: Relax with a healthy full-board stay at a Bedfordshire spa resort
+  price: 229
+  price-description: per room per night
+  saved: 42
+  expires: 2020/03/10
+  image: https://secretescapes-web.imgix.net/sales/81648/0c717cb9_8520_4b20_94b3_30e2d22d11c7.jpg?auto=format,compress
+  link: https://www.secretescapes.com/champneys-henlow-henlow-bedfordshire/sale

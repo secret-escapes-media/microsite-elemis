@@ -1,32 +1,22 @@
-- title: Champneys Henlow
-  location: Henlow, Bedfordshire
-  description: Relax with a healthy full-board stay at a Bedfordshire spa resort
+- title: Carden Park Hotel
+  location: Chester, Cheshire
+  description: Award-winning leisure hotel stay near Chester wuth brand-new spa
+  price: 99
+  price-description: per room per night
+  saved: 36
+  expires: 2020/03/24
+  image: https://secretescapes-web.imgix.net/sales/108287/8928db08_b7cf_4f4a_8d84_32d6032b0c40.jpg?auto=format,compress
+  link: https://www.secretescapes.com/carden-park-hotel-chester-cheshire-uk/sale
+
+- title: Champneys Forest Mere
+  location: Liphook, Hampshire
+  description: Luxe Champneys spa stay in the Hampshire countryside
   price: 229
   price-description: per room per night
-  saved: 42
-  expires: 2020/03/10
-  image: https://secretescapes-web.imgix.net/sales/81648/0c717cb9_8520_4b20_94b3_30e2d22d11c7.jpg?auto=format,compress
-  link: https://www.secretescapes.com/champneys-henlow-henlow-bedfordshire/sale
-
-- title: Lakeside Park Hotel & Spa
-  location: Ryde, Isle of Wight
-  description: Isle of Wight tranquillity at a spa hotel in Ryde
-  price: 146
-  price-description: per room per night
-  saved: 44
-  expires: 2020/03/10
-  image: https://secretescapes-web.imgix.net/sales/56680/ba044966_104e_4134_9450_0dd5d7a64f9f.jpg?auto=format,compress
-  link: https://www.secretescapes.com/lakeside-park-hotel-and-spa-ryde-isle-of-wight/sale
-
-- title: Moddershall Oaks Country Spa Retreat
-  location: Moddershall, Staffordshire
-  description: Suite dreams at a Good Spa Guide-rated Staffordshire retreat
-  price: 259
-  price-description: per suite per night
-  saved: 44
-  expires: 2020/03/17
-  image: https://secretescapes-web.imgix.net/sales/110379/42afe0a8_93e7_4d8a_8ef1_3d91243e1be1.jpg?auto=format,compress
-  link: https://www.secretescapes.com/moddershall-oaks-country-spa-retreat-moddershall-staffordshire/sale
+  saved: 53
+  expires: 2020/03/24
+  image: https://secretescapes-web.imgix.net/sales/45241/48b1e86b_e596_4697_9d72_5a538454fc4b.jpg?auto=format,compress
+  link: https://www.secretescapes.com/champneys-forest-mere-liphook-hampshire/sale
 
 - title: New Hall Hotel & Spa
   location: Sutton Coldfield, Birmingham
@@ -34,6 +24,6 @@
   price: 149
   price-description: per room per night
   saved: 36
-  expires: 2020/03/17
+  expires: 2020/03/24
   image: https://secretescapes-web.imgix.net/sales/96752/8dfeaa2c_15c2_4f1f_b999_1126b7417ae0.jpg?auto=format,compress
   link: https://www.secretescapes.com/new-hall-hotel-and-spa-sutton-coldfield-birmingham/sale
